@@ -34,7 +34,7 @@
 }
 
 .bottom{
-    background-color: rgb(132, 130, 130);
+    background-color: rgb(68, 68, 68);
     display: flex;
     justify-content: space-around;
 }
@@ -49,4 +49,5 @@
     height: 25px;
     text-align: center;
     text-decoration: solid;
+    padding-top: 5px;
 }
