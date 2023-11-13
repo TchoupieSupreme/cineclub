@@ -1,0 +1,42 @@
+body{
+    background-color: #586F7C;
+    text-align: center;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 58px;
+}
+
+#logo{
+    float: right;
+}
+
+.left{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.right{
+    width: 100px;
+    height: 100px;
+    float: right;
+}
+
+.salle{
+    width: 500px;
+    height: 200px;
+}
+
+.div{
+    text-align: center;
+    margin-left: 28%;
+    margin-right: 30%;
+}
+
+.projecteur{
+    text-align: center;
+    margin-left: 35%;
+    margin-right: 30%;
+}
