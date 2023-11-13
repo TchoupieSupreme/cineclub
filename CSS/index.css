@@ -9,7 +9,10 @@ h1{
     background-color: #F9DEC9;
     margin-top: 20px;
 }
-
+h2{
+    font-size: 22px;
+}
+h2
 .gaumont{
     align-items: center;
     width: 700px;
