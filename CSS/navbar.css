@@ -19,10 +19,16 @@
 }
 
 .searchbar{
+    background-color: rgb(68, 68, 68);
+    color: white;
     height: 50px;
     border-radius: 100px;
     margin-top: 35px;
     width: 750px;
+}
+
+.searchbar::placeholder{
+    color: rgb(188, 188, 188);
 }
 
 .idd{
