@@ -42,3 +42,17 @@ hr{
     border: 1px solid;
     color: white;
 }
+
+.reseaux{
+    height: auto;
+    width: 6%;
+    margin-left: 5%;
+}
+
+.sous_titre{
+    font-size: 22px;
+}
+
+.div_reseaux{
+    margin-right: 5%;
+}
