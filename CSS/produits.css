@@ -16,5 +16,15 @@ p{
 
 .div_body{
     display: flex;
+    justify-content: center;
     margin-top: 30px;
+}
+
+.secondTitre{
+    text-align: center;
+}
+
+.popcorn_img{
+    width: 80px;
+    margin-left: 10px;
 }
